@@ -36,7 +36,7 @@ The project follows a complete Machine Learning workflow, including **Data Prepr
 ```text
 Student-Placement-Prediction/
 │
-├── student_placement_dataset_5000.csv
+├── student_placement.csv
 ├── main.py
 ├── graphs/
 │   ├── placement_distribution.png
